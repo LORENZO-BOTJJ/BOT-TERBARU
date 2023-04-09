@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://api.zahwazein.xyz/upload/icon.png" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/73cd9800a60da3f00d795.jpg" alt="nz" width="350"/>
 </p>
 
 ## LORENZO-BOTJJ
